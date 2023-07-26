@@ -1,0 +1,5 @@
+batch_size = 32
+epochs = 20000
+mape_minmax_scaler = 0.04798091964527105
+mape_minmax_log_inv = 0.00046841752351419326
+mape_raw = 0.004327242943387947
