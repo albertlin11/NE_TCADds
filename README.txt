@@ -25,5 +25,6 @@ step3:
         loss_plot.m
         test_plot.m
         trend.m
+	test_visualize.m
 	train_record.csv
     
