@@ -1,0 +1,11 @@
+,0,1
+0,"[('process_record', 4.7302376060542883e-07)]","[('trainable_params', 343.0)]"
+1,"[('process_record', 4.889406000074814e-07)]","[('trainable_params', 343.0)]"
+2,"[('process_record', 5.401620342126989e-07)]","[('trainable_params', 343.0)]"
+3,"[('process_record', 5.754042717853736e-07)]","[('trainable_params', 343.0)]"
+4,"[('process_record', 6.061330282136623e-07)]","[('trainable_params', 343.0)]"
+5,"[('process_record', 6.448066187658696e-07)]","[('trainable_params', 205.0)]"
+6,"[('process_record', 8.049975690482825e-07)]","[('trainable_params', 289.0)]"
+7,"[('process_record', 8.517188803125464e-07)]","[('trainable_params', 286.0)]"
+8,"[('process_record', 8.788321110841935e-07)]","[('trainable_params', 205.0)]"
+9,"[('process_record', 8.813477734292974e-07)]","[('trainable_params', 289.0)]"
